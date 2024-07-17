@@ -11,7 +11,7 @@ This project demonstrates an end-to-end (E2E) test automation solution for the [
         - These files likely encapsulate interaction logic with specific pages of the application (LoginPage.ts, ProductPage.ts, CartPage.ts, CheckoutPage.ts).
     - **support/**: This directory might contain helper functions or configurations for the tests.
         - **e2e.ts**: This file could hold reusable functionalities used across E2E tests.
-  - **cypress.config.ts**: This file probably holds Cypress configuration settings.
+    - **cypress.config.ts**: This file probably holds Cypress configuration settings.
     - **package.json**: This file lists project dependencies and scripts.
     - **tsconfig.json**: This file configures the TypeScript compiler for the project.
     - **node_modules/**: This directory contains installed dependencies from npm (Node Package Manager).
