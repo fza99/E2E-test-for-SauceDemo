@@ -1,5 +1,3 @@
-// cypress/e2e/e2e.spec.ts
-
 import LoginPage from '../../page-objects/LoginPage';
 import ProductPage from '../../page-objects/ProductPage';
 import CartPage from '../../page-objects/CartPage';
